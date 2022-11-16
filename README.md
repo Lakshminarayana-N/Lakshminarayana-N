@@ -3,7 +3,7 @@
 - 🌱 I’m currently a Data Analyst
 - 💞️ I’m looking to collaborate on Data Analyst projects
 - 📫 How to reach me.+91 9629935459
-- ✨ Learning a passion in my life 
+- ✨ Learning a passion
 
 <!---
 Lakshminarayana-N/Lakshminarayana-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
